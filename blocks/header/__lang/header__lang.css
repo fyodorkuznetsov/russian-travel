@@ -1,0 +1,9 @@
+.header__lang{
+  padding-bottom: 11px;
+}
+
+@media screen and (max-width:500px){
+  .header__lang{
+    padding-bottom:6px;
+  }
+}

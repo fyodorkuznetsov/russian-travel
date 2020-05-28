@@ -1,0 +1,24 @@
+.cover{
+  background-image: url(../../images/background.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-top: 5px;
+}
+
+@media screen and (max-width:1024px){
+  .cover{
+    margin: 20px -48px 0;
+  }
+}
+
+@media screen and (max-width:768px){
+  .cover{
+    margin: 20px -24px 0;
+  }
+}
+
+@media screen and (max-width:500px){
+  .cover{
+    margin: 13px -16px 0;
+  }
+}
