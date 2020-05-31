@@ -5,6 +5,7 @@
   padding: 0 48px;
   box-sizing: border-box;
   text-rendering: optimizeLegibility;
+  background: #2A2C2F;
 }
 
 @media screen and (max-width:768px){
